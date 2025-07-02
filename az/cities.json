@@ -1,53 +1,52 @@
 [
     {
-        "name": "Absheron",
+        "name": "Abşeron",
         "cities": [
             "Ceyranbatan",
             "Digah",
-            "Gyuzdek",
-            "Khirdalan",
+            "Güzdək",
+            "Xırdalan",
             "Qobu",
             "Saray"
         ]
     },
     {
-        "name": "Agdam",
+        "name": "Ağdam",
         "cities": [
             "Ağdam"
         ]
     },
     {
-        "name": "Agdash",
+        "name": "Ağdaş",
         "cities": [
             "Ağdaş"
         ]
     },
     {
-        "name": "Aghjabadi",
+        "name": "Agcəbədi",
         "cities": [
-            "Agdzhabedy",
+            "Agcəbədi",
             "Avşar"
         ]
     },
     {
-        "name": "Agstafa",
+        "name": "Aqstafa",
         "cities": [
-            "Aghstafa",
+            "Aqstafa",
             "Saloğlu",
             "Vurğun"
         ]
     },
     {
-        "name": "Agsu",
+        "name": "Ağsu",
         "cities": [
-            "Aghsu"
+            "Ağsu"
         ]
     },
     {
         "name": "Astara",
         "cities": [
-            "Astara",
-            "Kizhaba"
+            "Astara"
         ]
     },
     {
@@ -55,23 +54,22 @@
         "cities": []
     },
     {
-        "name": "Baku",
+        "name": "BakI",
         "cities": [
-            "Amirdzhan",
+            "Əmircan",
             "Badamdar",
             "Bakıxanov",
-            "Baku",
-            "Balakhani",
-            "Bilajari",
-            "Bilajer",
-            "Binagadi",
-            "Biny Selo",
+            "Bakı",
+            "Balaxanı",
+            "Biləcəri",
+            "Binəqədi",
+            "Binə",
             "Buzovna",
             "Hövsan",
-            "Khodzhi-Gasan",
+            "Xochəsən",
             "Korgöz",
             "Lökbatan",
-            "Mardakan",
+            "Mərdəkan",
             "Maştağa",
             "Nardaran",
             "Nizami Rayonu",
@@ -86,44 +84,42 @@
             "Türkan",
             "Yeni Suraxanı",
             "Zabrat",
-            "Zyrya"
+            "Zirə"
         ]
     },
     {
-        "name": "Balakan",
+        "name": "Balakən",
         "cities": [
-            "Belokany",
+            "Balakən",
             "Qabaqçöl"
         ]
     },
     {
-        "name": "Barda",
+        "name": "Bərdə",
         "cities": [
-            "Barda",
+            "Bərdə",
             "Samuxlu"
         ]
     },
     {
         "name": "Beylagan",
         "cities": [
-            "Beylagan",
+            "Beyləqan",
             "Birinci Aşıqlı",
             "Dünyamalılar",
-            "Orjonikidze",
             "Yuxarı Aran"
         ]
     },
     {
         "name": "Bilasuvar",
         "cities": [
-            "Pushkino"
+            "Biləsuvar"
         ]
     },
     {
         "name": "Dashkasan",
         "cities": [
-            "Verkhniy Dashkesan",
-            "Yukhary-Dashkesan"
+            "Daşkəsəm"
         ]
     },
     {
@@ -134,9 +130,9 @@
         ]
     },
     {
-        "name": "Ganja",
+        "name": "Gəncə",
         "cities": [
-            "Ganja"
+            "Gəncə"
         ]
     },
     {
@@ -145,7 +141,6 @@
             "Arıqdam",
             "Arıqıran",
             "Böyük Qaramurad",
-            "Kyadabek",
             "Novosaratovka"
         ]
     },
@@ -163,15 +158,15 @@
         ]
     },
     {
-        "name": "Goychay",
+        "name": "Göyçay",
         "cities": [
-            "Geoktschai"
+            "Göyçay"
         ]
     },
     {
         "name": "Goygol",
         "cities": [
-            "Yelenendorf"
+            "Göygöl"
         ]
     },
     {
